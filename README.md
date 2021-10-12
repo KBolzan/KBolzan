@@ -8,7 +8,7 @@
 ##
 
 <div>
-<a href="https://github.com/KBolzan">
+<a href="https://github.com/KabolCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KabolCode&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabolCode&layout=compact&langs_count=5&theme=dark"/>
 </div>

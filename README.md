@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Django Projects
+- 🌱 I’m currently learning Web Development, Data Science and Cybersecurity
 
+- 💬 Ask me about anything, maybe I have the answer...
 
 ##
 
 <div>
 <a href="https://github.com/KBolzan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KBolzan&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBolzan&layout=compact&langs_count=5&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KabolCode&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabolCode&layout=compact&langs_count=5&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

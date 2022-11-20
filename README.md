@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Django Projects
-- 🌱 I’m currently learning Web Development, Data Science and Cybersecurity
+- 💻 I’m currently working on Django Projects
+- 📙 I’m currently studying Web Development, Data Science and Cybersecurity
 
-- 🕹
+- 🕹 I'm also learning about game design and programming, for fun! 😅
 
-- 💬 Ask me about anything, maybe I have the answer...
 
 ##
 
 <div>
 <a href="https://github.com/KabolCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KabolCode&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KabolCode&theme=dark&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,4 +24,3 @@
 
 ##
 
-- 📫 How to reach me: ...

@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Django Projects
 - 🌱 I’m currently learning Web Development, Data Science and Cybersecurity
 
+- 🕹
+
 - 💬 Ask me about anything, maybe I have the answer...
 
 ##

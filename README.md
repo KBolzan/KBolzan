@@ -3,7 +3,7 @@
 - 💻 I’m currently working on Django Projects
 - 📙 I’m studying Web Development, Data Science and Cybersecurity
 
-- 🕹 I'm also learning about games (design and programming). Fun! 😅
+- 🕹 I'm also learning about games (design and programming). Fun! 😁
 
 
 ##
